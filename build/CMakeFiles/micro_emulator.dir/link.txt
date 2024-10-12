@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/micro_emulator.dir/src/main.c.o CMakeFiles/micro_emulator.dir/src/processor.c.o -o micro_emulator 
