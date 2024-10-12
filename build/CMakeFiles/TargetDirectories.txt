@@ -1,3 +1,0 @@
-/home/scratch/cpu_emulator/build/CMakeFiles/micro_emulator.dir
-/home/scratch/cpu_emulator/build/CMakeFiles/edit_cache.dir
-/home/scratch/cpu_emulator/build/CMakeFiles/rebuild_cache.dir

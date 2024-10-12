@@ -1,0 +1,13 @@
+build/*
+CMakeLists.txt.user
+CMakeChache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_maanifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
